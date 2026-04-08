@@ -18,4 +18,3 @@ Provided a balanced perspective on the societal impact of generative AI tools.
 
 ## 📚 Type
 Academic / Ethics Analysis
-Video of comparing Strong vs Weak AI
